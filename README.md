@@ -1,4 +1,4 @@
-Allows openGL error detection using function instrumentation in GCC C++ compiler. This uses glew but can be used with other c++ extention libraries.Error checking happens
+Allows openGL error detection using function instrumentation in GCC C++ compiler. This uses glew, but can be used with other c++ extention libraries.Error checking happens
   1)after calling
   2)before exiting
 functions.
