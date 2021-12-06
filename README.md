@@ -4,4 +4,4 @@ Allows openGL error detection using function instrumentation in GCC C++ compiler
 functions.
 
 Set -finstrument-functions and -rdynamic flags to enable.
-  the -rdynamic flag allows displaying calling function names on the displayed callstack.
+  The -rdynamic flag allows displaying calling function names on the displayed callstack.
